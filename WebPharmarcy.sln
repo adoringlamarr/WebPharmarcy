@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPharmarcy", "WebPharmarcy.csproj", "{84211756-1683-4D9B-A8B4-56C3F18A8BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84211756-1683-4D9B-A8B4-56C3F18A8BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84211756-1683-4D9B-A8B4-56C3F18A8BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84211756-1683-4D9B-A8B4-56C3F18A8BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84211756-1683-4D9B-A8B4-56C3F18A8BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE9E254F-8979-48B0-985C-64D543AB3366}
+	EndGlobalSection
+EndGlobal
