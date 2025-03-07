@@ -3,7 +3,7 @@ using WebPharmarcy.Api.Models;
 
 namespace WebPharmarcy.Api
 {
-    [ApiController]
+    /*[ApiController]
 
     public class Productcontroller : Controller
     {
@@ -155,6 +155,6 @@ namespace WebPharmarcy.Api
             }
         }
 
-    }
+    }*/
 }
 
